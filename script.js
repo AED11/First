@@ -1,6 +1,5 @@
-// dasd
 function func1(){
-  
+  // comment
 }
 
 function func2(){
